@@ -4,3 +4,4 @@ optuna
 gspread
 tensorflow-gpu==2.10.0
 scikit-learn
+oauth2client
